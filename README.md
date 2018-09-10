@@ -1,3 +1,3 @@
 # hello-world
-a short description
-My name is Austin, I'm making a change to this branch
+My name is Austin
+This C++ program returns the output "My name is Austin" when it is run.
